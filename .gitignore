@@ -1,0 +1,21 @@
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.cache
+
+# SDL build artifacts
+vendored/SDL/build/
+vendored/SDL/CMakeFiles/
+vendored/SDL/CMakeCache.txt
+vendored/SDL/cmake_install.cmake
+vendored/SDL/Makefile
+
+# Common generated files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
